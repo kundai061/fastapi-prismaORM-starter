@@ -1,7 +1,7 @@
 # fastapi prisma ORM starter
 ```bash
-git clone
-cd
+git clone https://github.com/kundai061/fastapi-prismaORM-starter.git
+cd fastapi-prismaORM-starter
 
 ```
 TO run
